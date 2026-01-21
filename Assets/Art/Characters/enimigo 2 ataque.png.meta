@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: d851d39a4cee1a448b71b0b110e1787a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1293692260568373913
+    second: enimigo 2 ataque_0
+  - first:
+      213: -9148067146161880634
+    second: enimigo 2 ataque_1
+  - first:
+      213: -1457184398723071338
+    second: enimigo 2 ataque_2
+  - first:
+      213: -734210978239190579
+    second: enimigo 2 ataque_3
+  - first:
+      213: -4988459873197031965
+    second: enimigo 2 ataque_4
+  - first:
+      213: -8564735923915079128
+    second: enimigo 2 ataque_5
+  - first:
+      213: -2174932028675509501
+    second: enimigo 2 ataque_6
+  - first:
+      213: 8956349145317880101
+    second: enimigo 2 ataque_7
+  - first:
+      213: -8001502596068948590
+    second: enimigo 2 ataque_8
+  - first:
+      213: 7305363336973081505
+    second: enimigo 2 ataque_9
+  - first:
+      213: 8495969705492629072
+    second: enimigo 2 ataque_10
+  - first:
+      213: 2458031069691598176
+    second: enimigo 2 ataque_11
+  - first:
+      213: -8665512196563724027
+    second: enimigo 2 ataque_12
+  - first:
+      213: -670109939608949812
+    second: enimigo 2 ataque_13
+  - first:
+      213: 1761631577363707257
+    second: enimigo 2 ataque_14
+  - first:
+      213: -1720940045618307433
+    second: enimigo 2 ataque_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enimigo 2 ataque_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 36
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76566284eb1eb0ee0800000000000000
+      internalID: -1293692260568373913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enimigo 2 ataque_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 36
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1899b26698b0180800000000000000
+      internalID: -9148067146161880634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enimigo 2 ataque_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 36
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692ced5828a07cbe0800000000000000
+      internalID: -1457184398723071338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enimigo 2 ataque_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1
+        width: 36
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc96cdb510f8fc5f0800000000000000
+      internalID: -734210978239190579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enimigo 2 ataque_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1
+        width: 36
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edfcc1ec2e65cab0800000000000000
+      internalID: -4988459873197031965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enimigo 2 ataque_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1
+        width: 36
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822c30c1e02f32980800000000000000
+      internalID: -8564735923915079128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enimigo 2 ataque_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1
+        width: 36
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3033d2cd7d611d1e0800000000000000
+      internalID: -2174932028675509501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enimigo 2 ataque_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1
+        width: 37
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521bb0b48185b4c70800000000000000
+      internalID: 8956349145317880101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enimigo 2 ataque_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1
+        width: 39
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295c1fb58c3f4f090800000000000000
+      internalID: -8001502596068948590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enimigo 2 ataque_9
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1
+        width: 41
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab517fdf3dd16560800000000000000
+      internalID: 7305363336973081505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enimigo 2 ataque_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1
+        width: 52
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0564e5efe6fb7e570800000000000000
+      internalID: 8495969705492629072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enimigo 2 ataque_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1
+        width: 52
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06557d31c3eac1220800000000000000
+      internalID: 2458031069691598176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enimigo 2 ataque_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1
+        width: 52
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509110fa19aedb780800000000000000
+      internalID: -8665512196563724027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enimigo 2 ataque_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1
+        width: 52
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb66217f8a43b6f0800000000000000
+      internalID: -670109939608949812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enimigo 2 ataque_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1
+        width: 52
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975ffd90692927810800000000000000
+      internalID: 1761631577363707257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enimigo 2 ataque_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1
+        width: 52
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e1d2d752efd18e0800000000000000
+      internalID: -1720940045618307433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b890e532ed5f46144bff71b8d3d9228c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      enimigo 2 ataque_0: -1293692260568373913
+      enimigo 2 ataque_1: -9148067146161880634
+      enimigo 2 ataque_10: 8495969705492629072
+      enimigo 2 ataque_11: 2458031069691598176
+      enimigo 2 ataque_12: -8665512196563724027
+      enimigo 2 ataque_13: -670109939608949812
+      enimigo 2 ataque_14: 1761631577363707257
+      enimigo 2 ataque_15: -1720940045618307433
+      enimigo 2 ataque_2: -1457184398723071338
+      enimigo 2 ataque_3: -734210978239190579
+      enimigo 2 ataque_4: -4988459873197031965
+      enimigo 2 ataque_5: -8564735923915079128
+      enimigo 2 ataque_6: -2174932028675509501
+      enimigo 2 ataque_7: 8956349145317880101
+      enimigo 2 ataque_8: -8001502596068948590
+      enimigo 2 ataque_9: 7305363336973081505
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

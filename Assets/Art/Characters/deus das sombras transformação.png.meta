@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: 010532d2581f4c94bacae4697f256958
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2982380400108206694
+    second: "deus das sombras transforma\xE7\xE3o_0"
+  - first:
+      213: 5312532822242684856
+    second: "deus das sombras transforma\xE7\xE3o_1"
+  - first:
+      213: 1159899533573454968
+    second: "deus das sombras transforma\xE7\xE3o_2"
+  - first:
+      213: -5347178609574385040
+    second: "deus das sombras transforma\xE7\xE3o_3"
+  - first:
+      213: -4622760224453490064
+    second: "deus das sombras transforma\xE7\xE3o_4"
+  - first:
+      213: 8978863947807978296
+    second: "deus das sombras transforma\xE7\xE3o_5"
+  - first:
+      213: 7557748613356390390
+    second: "deus das sombras transforma\xE7\xE3o_6"
+  - first:
+      213: 8007893972993499160
+    second: "deus das sombras transforma\xE7\xE3o_7"
+  - first:
+      213: -1365013981955794143
+    second: "deus das sombras transforma\xE7\xE3o_8"
+  - first:
+      213: -7980983277422152052
+    second: "deus das sombras transforma\xE7\xE3o_9"
+  - first:
+      213: 4069711463391708222
+    second: "deus das sombras transforma\xE7\xE3o_10"
+  - first:
+      213: 7418889459584566040
+    second: "deus das sombras transforma\xE7\xE3o_11"
+  - first:
+      213: 3913837003767207246
+    second: "deus das sombras transforma\xE7\xE3o_12"
+  - first:
+      213: 8241818955788940730
+    second: "deus das sombras transforma\xE7\xE3o_13"
+  - first:
+      213: -7942297008416636455
+    second: "deus das sombras transforma\xE7\xE3o_14"
+  - first:
+      213: 8668131801874836770
+    second: "deus das sombras transforma\xE7\xE3o_15"
+  - first:
+      213: 3051523762595314880
+    second: "deus das sombras transforma\xE7\xE3o_16"
+  - first:
+      213: 5804660680492520018
+    second: "deus das sombras transforma\xE7\xE3o_17"
+  - first:
+      213: -4035355193927946140
+    second: "deus das sombras transforma\xE7\xE3o_18"
+  - first:
+      213: -8402931024035236
+    second: "deus das sombras transforma\xE7\xE3o_19"
+  - first:
+      213: 5260607871787991565
+    second: "deus das sombras transforma\xE7\xE3o_20"
+  - first:
+      213: 7195099835548637347
+    second: "deus das sombras transforma\xE7\xE3o_21"
+  - first:
+      213: -2135199950205088915
+    second: "deus das sombras transforma\xE7\xE3o_22"
+  - first:
+      213: 1825732038292788531
+    second: "deus das sombras transforma\xE7\xE3o_23"
+  - first:
+      213: -473247523986474086
+    second: "deus das sombras transforma\xE7\xE3o_24"
+  - first:
+      213: -2976985736604367391
+    second: "deus das sombras transforma\xE7\xE3o_25"
+  - first:
+      213: -4163304924251104726
+    second: "deus das sombras transforma\xE7\xE3o_26"
+  - first:
+      213: 9215635762766532329
+    second: "deus das sombras transforma\xE7\xE3o_27"
+  - first:
+      213: -424783321925233906
+    second: "deus das sombras transforma\xE7\xE3o_28"
+  - first:
+      213: -6237384464262531862
+    second: "deus das sombras transforma\xE7\xE3o_29"
+  - first:
+      213: 615255021290232030
+    second: "deus das sombras transforma\xE7\xE3o_30"
+  - first:
+      213: -8987072005906995730
+    second: "deus das sombras transforma\xE7\xE3o_31"
+  - first:
+      213: -8433142980704275672
+    second: "deus das sombras transforma\xE7\xE3o_32"
+  - first:
+      213: -730214632470481621
+    second: "deus das sombras transforma\xE7\xE3o_33"
+  - first:
+      213: -9111027377541374558
+    second: "deus das sombras transforma\xE7\xE3o_34"
+  - first:
+      213: 4209758916451128067
+    second: "deus das sombras transforma\xE7\xE3o_35"
+  - first:
+      213: -6040555174149093040
+    second: "deus das sombras transforma\xE7\xE3o_36"
+  - first:
+      213: -3243754964844415252
+    second: "deus das sombras transforma\xE7\xE3o_37"
+  - first:
+      213: 7657090701278947265
+    second: "deus das sombras transforma\xE7\xE3o_38"
+  - first:
+      213: 8804712517511725455
+    second: "deus das sombras transforma\xE7\xE3o_39"
+  - first:
+      213: 1186138631788393760
+    second: "deus das sombras transforma\xE7\xE3o_40"
+  - first:
+      213: -3861745919850598424
+    second: "deus das sombras transforma\xE7\xE3o_41"
+  - first:
+      213: 2827117724265403287
+    second: "deus das sombras transforma\xE7\xE3o_42"
+  - first:
+      213: -7549847506795385878
+    second: "deus das sombras transforma\xE7\xE3o_43"
+  - first:
+      213: 7943234024011408857
+    second: "deus das sombras transforma\xE7\xE3o_44"
+  - first:
+      213: 3616686055267557560
+    second: "deus das sombras transforma\xE7\xE3o_45"
+  - first:
+      213: 2854578629382092529
+    second: "deus das sombras transforma\xE7\xE3o_46"
+  - first:
+      213: -7833834776398313892
+    second: "deus das sombras transforma\xE7\xE3o_47"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_0"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 33
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a958672d3d47c96d0800000000000000
+      internalID: -2982380400108206694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_1"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 33
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfe06f6478e9b940800000000000000
+      internalID: 5312532822242684856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_2"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 33
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c79c9fa7ac81010800000000000000
+      internalID: 1159899533573454968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_3"
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 33
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a60c992610bc5b0800000000000000
+      internalID: -5347178609574385040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_4"
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 0
+        width: 36
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a05ab7118a8dfb0800000000000000
+      internalID: -4622760224453490064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_5"
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 0
+        width: 39
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833f7af30355b9c70800000000000000
+      internalID: 8978863947807978296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_6"
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 0
+        width: 45
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f70fc8325482e860800000000000000
+      internalID: 7557748613356390390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_7"
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 0
+        width: 45
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810e44b0421c12f60800000000000000
+      internalID: 8007893972993499160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_8"
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 45
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b551cf30f7e0de0800000000000000
+      internalID: -1365013981955794143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_9"
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 0
+        width: 45
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c867be68ef9dd3190800000000000000
+      internalID: -7980983277422152052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_10"
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 0
+        width: 48
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e344cc183058a7830800000000000000
+      internalID: 4069711463391708222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_11"
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 0
+        width: 45
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8138d6218a035f660800000000000000
+      internalID: 7418889459584566040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_12"
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 0
+        width: 57
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45d25eb40eb05630800000000000000
+      internalID: 3913837003767207246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_13"
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 57
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab571ea5ca2d06270800000000000000
+      internalID: 8241818955788940730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_14"
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 0
+        width: 54
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1cda073fa47c190800000000000000
+      internalID: -7942297008416636455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_15"
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 0
+        width: 57
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d2405b2f36b4870800000000000000
+      internalID: 8668131801874836770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_16"
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 0
+        width: 57
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc3825c1b0395a20800000000000000
+      internalID: 3051523762595314880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_17"
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 0
+        width: 63
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2521f6e622c4e8050800000000000000
+      internalID: 5804660680492520018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_18"
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 0
+        width: 66
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460b563d4d98ff7c0800000000000000
+      internalID: -4035355193927946140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_19"
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 0
+        width: 72
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c528d39249522eff0800000000000000
+      internalID: -8402931024035236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_20"
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 0
+        width: 75
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d020c8cccfe610940800000000000000
+      internalID: 5260607871787991565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_21"
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 0
+        width: 87
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8195ddd212ad360800000000000000
+      internalID: 7195099835548637347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_22"
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 0
+        width: 93
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b089345fe3e52e0800000000000000
+      internalID: -2135199950205088915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_23"
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 0
+        width: 96
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335dd7d9d9d465910800000000000000
+      internalID: 1825732038292788531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_24"
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 0
+        width: 99
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bf3f162efae69f0800000000000000
+      internalID: -473247523986474086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_25"
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 0
+        width: 102
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5ca4cce3f9fa6d0800000000000000
+      internalID: -2976985736604367391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_26"
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 0
+        width: 99
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ad062ca38f836c0800000000000000
+      internalID: -4163304924251104726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_27"
+      rect:
+        serializedVersion: 2
+        x: 3471
+        y: 0
+        width: 99
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eec51356e384ef70800000000000000
+      internalID: 9215635762766532329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_28"
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 0
+        width: 87
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03d22eb1ddda1af0800000000000000
+      internalID: -424783321925233906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_29"
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 0
+        width: 75
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4771870eb5079a0800000000000000
+      internalID: -6237384464262531862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_30"
+      rect:
+        serializedVersion: 2
+        x: 3873
+        y: 0
+        width: 69
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8974e9e23d98800800000000000000
+      internalID: 615255021290232030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_31"
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 0
+        width: 69
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee56e0d40a1874380800000000000000
+      internalID: -8987072005906995730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_32"
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 0
+        width: 66
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823fa07c32577fa80800000000000000
+      internalID: -8433142980704275672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_33"
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 0
+        width: 69
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25fdcd19a1cdd5f0800000000000000
+      internalID: -730214632470481621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_34"
+      rect:
+        serializedVersion: 2
+        x: 4386
+        y: 0
+        width: 69
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad99c65fd02f8180800000000000000
+      internalID: -9111027377541374558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_35"
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 0
+        width: 66
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3035a152e611c6a30800000000000000
+      internalID: 4209758916451128067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_36"
+      rect:
+        serializedVersion: 2
+        x: 4641
+        y: 0
+        width: 69
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05902b6c213ab2ca0800000000000000
+      internalID: -6040555174149093040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_37"
+      rect:
+        serializedVersion: 2
+        x: 4770
+        y: 0
+        width: 69
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6f90eab0edbf2d0800000000000000
+      internalID: -3243754964844415252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_38"
+      rect:
+        serializedVersion: 2
+        x: 4899
+        y: 0
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7adae7c63734a60800000000000000
+      internalID: 7657090701278947265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_39"
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 0
+        width: 69
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81c8b3a26f903a70800000000000000
+      internalID: 8804712517511725455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_40"
+      rect:
+        serializedVersion: 2
+        x: 5154
+        y: 0
+        width: 69
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0257d1a1dc2067010800000000000000
+      internalID: 1186138631788393760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_41"
+      rect:
+        serializedVersion: 2
+        x: 5283
+        y: 3
+        width: 66
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efad7adb82586ac0800000000000000
+      internalID: -3861745919850598424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_42"
+      rect:
+        serializedVersion: 2
+        x: 5409
+        y: 3
+        width: 69
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793dc0d6790fb3720800000000000000
+      internalID: 2827117724265403287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_43"
+      rect:
+        serializedVersion: 2
+        x: 5538
+        y: 3
+        width: 69
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeba71181bd893790800000000000000
+      internalID: -7549847506795385878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_44"
+      rect:
+        serializedVersion: 2
+        x: 5667
+        y: 3
+        width: 66
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d52ff082490c3e60800000000000000
+      internalID: 7943234024011408857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_45"
+      rect:
+        serializedVersion: 2
+        x: 5793
+        y: 3
+        width: 69
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0e4542ecc013230800000000000000
+      internalID: 3616686055267557560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_46"
+      rect:
+        serializedVersion: 2
+        x: 5922
+        y: 3
+        width: 69
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6bdb3a3208d9720800000000000000
+      internalID: 2854578629382092529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "deus das sombras transforma\xE7\xE3o_47"
+      rect:
+        serializedVersion: 2
+        x: 6051
+        y: 3
+        width: 66
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c564dabb6c0a84390800000000000000
+      internalID: -7833834776398313892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a8cc0aae0ac595e499d7636aba8f4cf8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "deus das sombras transforma\xE7\xE3o_0": -2982380400108206694
+      "deus das sombras transforma\xE7\xE3o_1": 5312532822242684856
+      "deus das sombras transforma\xE7\xE3o_10": 4069711463391708222
+      "deus das sombras transforma\xE7\xE3o_11": 7418889459584566040
+      "deus das sombras transforma\xE7\xE3o_12": 3913837003767207246
+      "deus das sombras transforma\xE7\xE3o_13": 8241818955788940730
+      "deus das sombras transforma\xE7\xE3o_14": -7942297008416636455
+      "deus das sombras transforma\xE7\xE3o_15": 8668131801874836770
+      "deus das sombras transforma\xE7\xE3o_16": 3051523762595314880
+      "deus das sombras transforma\xE7\xE3o_17": 5804660680492520018
+      "deus das sombras transforma\xE7\xE3o_18": -4035355193927946140
+      "deus das sombras transforma\xE7\xE3o_19": -8402931024035236
+      "deus das sombras transforma\xE7\xE3o_2": 1159899533573454968
+      "deus das sombras transforma\xE7\xE3o_20": 5260607871787991565
+      "deus das sombras transforma\xE7\xE3o_21": 7195099835548637347
+      "deus das sombras transforma\xE7\xE3o_22": -2135199950205088915
+      "deus das sombras transforma\xE7\xE3o_23": 1825732038292788531
+      "deus das sombras transforma\xE7\xE3o_24": -473247523986474086
+      "deus das sombras transforma\xE7\xE3o_25": -2976985736604367391
+      "deus das sombras transforma\xE7\xE3o_26": -4163304924251104726
+      "deus das sombras transforma\xE7\xE3o_27": 9215635762766532329
+      "deus das sombras transforma\xE7\xE3o_28": -424783321925233906
+      "deus das sombras transforma\xE7\xE3o_29": -6237384464262531862
+      "deus das sombras transforma\xE7\xE3o_3": -5347178609574385040
+      "deus das sombras transforma\xE7\xE3o_30": 615255021290232030
+      "deus das sombras transforma\xE7\xE3o_31": -8987072005906995730
+      "deus das sombras transforma\xE7\xE3o_32": -8433142980704275672
+      "deus das sombras transforma\xE7\xE3o_33": -730214632470481621
+      "deus das sombras transforma\xE7\xE3o_34": -9111027377541374558
+      "deus das sombras transforma\xE7\xE3o_35": 4209758916451128067
+      "deus das sombras transforma\xE7\xE3o_36": -6040555174149093040
+      "deus das sombras transforma\xE7\xE3o_37": -3243754964844415252
+      "deus das sombras transforma\xE7\xE3o_38": 7657090701278947265
+      "deus das sombras transforma\xE7\xE3o_39": 8804712517511725455
+      "deus das sombras transforma\xE7\xE3o_4": -4622760224453490064
+      "deus das sombras transforma\xE7\xE3o_40": 1186138631788393760
+      "deus das sombras transforma\xE7\xE3o_41": -3861745919850598424
+      "deus das sombras transforma\xE7\xE3o_42": 2827117724265403287
+      "deus das sombras transforma\xE7\xE3o_43": -7549847506795385878
+      "deus das sombras transforma\xE7\xE3o_44": 7943234024011408857
+      "deus das sombras transforma\xE7\xE3o_45": 3616686055267557560
+      "deus das sombras transforma\xE7\xE3o_46": 2854578629382092529
+      "deus das sombras transforma\xE7\xE3o_47": -7833834776398313892
+      "deus das sombras transforma\xE7\xE3o_5": 8978863947807978296
+      "deus das sombras transforma\xE7\xE3o_6": 7557748613356390390
+      "deus das sombras transforma\xE7\xE3o_7": 8007893972993499160
+      "deus das sombras transforma\xE7\xE3o_8": -1365013981955794143
+      "deus das sombras transforma\xE7\xE3o_9": -7980983277422152052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: f4b607956344b9d4081d5128187522a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5369787417401236891
+    second: "Mo\xE7a batendo_0"
+  - first:
+      213: -1392620186584654242
+    second: "Mo\xE7a batendo_1"
+  - first:
+      213: 3458053669942097830
+    second: "Mo\xE7a batendo_2"
+  - first:
+      213: 4243637915223471757
+    second: "Mo\xE7a batendo_3"
+  - first:
+      213: -9155453302966393892
+    second: "Mo\xE7a batendo_4"
+  - first:
+      213: 4094873598922313325
+    second: "Mo\xE7a batendo_5"
+  - first:
+      213: 977987463078097574
+    second: "Mo\xE7a batendo_6"
+  - first:
+      213: -8034019808847127317
+    second: "Mo\xE7a batendo_7"
+  - first:
+      213: -3237329025139911091
+    second: "Mo\xE7a batendo_8"
+  - first:
+      213: 7223431271781422398
+    second: "Mo\xE7a batendo_9"
+  - first:
+      213: -4914681042945441627
+    second: "Mo\xE7a batendo_10"
+  - first:
+      213: 3406505339349923084
+    second: "Mo\xE7a batendo_11"
+  - first:
+      213: 6287390955805484298
+    second: "Mo\xE7a batendo_12"
+  - first:
+      213: -1896081131343584352
+    second: "Mo\xE7a batendo_13"
+  - first:
+      213: -9087554974372482723
+    second: "Mo\xE7a batendo_14"
+  - first:
+      213: -465743459589971694
+    second: "Mo\xE7a batendo_15"
+  - first:
+      213: -1887409313830727103
+    second: "Mo\xE7a batendo_16"
+  - first:
+      213: -7093132816881076185
+    second: "Mo\xE7a batendo_17"
+  - first:
+      213: -1783910566499501776
+    second: "Mo\xE7a batendo_18"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Mo\xE7a batendo_0"
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 43
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562ef625bceaa75b0800000000000000
+      internalID: -5369787417401236891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mo\xE7a batendo_1"
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1
+        width: 41
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e5597915b6cace0800000000000000
+      internalID: -1392620186584654242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mo\xE7a batendo_2"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1
+        width: 41
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a77223cd797dff20800000000000000
+      internalID: 3458053669942097830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mo\xE7a batendo_3"
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86364c333e64ea30800000000000000
+      internalID: 4243637915223471757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mo\xE7a batendo_4"
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1
+        width: 39
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3e2078abb41f080800000000000000
+      internalID: -9155453302966393892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mo\xE7a batendo_5"
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1
+        width: 37
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ec3e7b7d9e3d830800000000000000
+      internalID: 4094873598922313325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mo\xE7a batendo_8"
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1
+        width: 45
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46597b5762b213d0800000000000000
+      internalID: -3237329025139911091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mo\xE7a batendo_9"
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1
+        width: 45
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35daf56878ce3460800000000000000
+      internalID: 7223431271781422398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mo\xE7a batendo_10"
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1
+        width: 44
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a004ea61ab8bcbb0800000000000000
+      internalID: -4914681042945441627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mo\xE7a batendo_11"
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1
+        width: 51
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c057c65ce86564f20800000000000000
+      internalID: 3406505339349923084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mo\xE7a batendo_12"
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1
+        width: 51
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a052ac423cc414750800000000000000
+      internalID: 6287390955805484298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mo\xE7a batendo_15"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 60
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211ada68ac85989f0800000000000000
+      internalID: -465743459589971694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mo\xE7a batendo_16"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 59
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1421b5f9a339ec5e0800000000000000
+      internalID: -1887409313830727103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mo\xE7a batendo_17"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7283329b841209d90800000000000000
+      internalID: -7093132816881076185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mo\xE7a batendo_18"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0393bb49ac64e37e0800000000000000
+      internalID: -1783910566499501776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0f0bf9b79a4c9b448a2dc2bcad2d53bc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Mo\xE7a batendo_0": -5369787417401236891
+      "Mo\xE7a batendo_1": -1392620186584654242
+      "Mo\xE7a batendo_10": -4914681042945441627
+      "Mo\xE7a batendo_11": 3406505339349923084
+      "Mo\xE7a batendo_12": 6287390955805484298
+      "Mo\xE7a batendo_13": -1896081131343584352
+      "Mo\xE7a batendo_14": -9087554974372482723
+      "Mo\xE7a batendo_15": -465743459589971694
+      "Mo\xE7a batendo_16": -1887409313830727103
+      "Mo\xE7a batendo_17": -7093132816881076185
+      "Mo\xE7a batendo_18": -1783910566499501776
+      "Mo\xE7a batendo_2": 3458053669942097830
+      "Mo\xE7a batendo_3": 4243637915223471757
+      "Mo\xE7a batendo_4": -9155453302966393892
+      "Mo\xE7a batendo_5": 4094873598922313325
+      "Mo\xE7a batendo_6": 977987463078097574
+      "Mo\xE7a batendo_7": -8034019808847127317
+      "Mo\xE7a batendo_8": -3237329025139911091
+      "Mo\xE7a batendo_9": 7223431271781422398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

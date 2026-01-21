@@ -1,0 +1,701 @@
+fileFormatVersion: 2
+guid: a5f60caa20d2e4445bbf72c50254bc7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6163794414569848053
+    second: Deus das sombras ataque_0
+  - first:
+      213: 2593438196835505635
+    second: Deus das sombras ataque_1
+  - first:
+      213: 6096313672669587085
+    second: Deus das sombras ataque_2
+  - first:
+      213: -481366435590239847
+    second: Deus das sombras ataque_3
+  - first:
+      213: -6096517617885235287
+    second: Deus das sombras ataque_4
+  - first:
+      213: 1280653848478913567
+    second: Deus das sombras ataque_5
+  - first:
+      213: 525650459497526421
+    second: Deus das sombras ataque_6
+  - first:
+      213: 2487922746873983179
+    second: Deus das sombras ataque_7
+  - first:
+      213: -4708811481827458006
+    second: Deus das sombras ataque_8
+  - first:
+      213: -1531598971193558851
+    second: Deus das sombras ataque_9
+  - first:
+      213: 9136298849794931548
+    second: Deus das sombras ataque_10
+  - first:
+      213: 3456340696848076218
+    second: Deus das sombras ataque_11
+  - first:
+      213: -8638280816123207173
+    second: Deus das sombras ataque_12
+  - first:
+      213: -7850096296824492553
+    second: Deus das sombras ataque_13
+  - first:
+      213: 8885534901776120728
+    second: Deus das sombras ataque_14
+  - first:
+      213: -3933722962926993204
+    second: Deus das sombras ataque_15
+  - first:
+      213: 1859260059782376612
+    second: Deus das sombras ataque_16
+  - first:
+      213: 5359741576207432476
+    second: Deus das sombras ataque_17
+  - first:
+      213: -8539038949995071669
+    second: Deus das sombras ataque_18
+  - first:
+      213: 2469063769785599193
+    second: Deus das sombras ataque_19
+  - first:
+      213: 6352713522622456479
+    second: Deus das sombras ataque_20
+  - first:
+      213: 2658940443712031231
+    second: Deus das sombras ataque_21
+  - first:
+      213: -3779008007562346226
+    second: Deus das sombras ataque_22
+  - first:
+      213: 7082908046558963276
+    second: Deus das sombras ataque_23
+  - first:
+      213: 6635499520633108795
+    second: Deus das sombras ataque_24
+  - first:
+      213: -4639236910745097824
+    second: Deus das sombras ataque_25
+  - first:
+      213: -1131996867671122711
+    second: Deus das sombras ataque_26
+  - first:
+      213: -8094640945114655434
+    second: Deus das sombras ataque_27
+  - first:
+      213: -2790521843985449270
+    second: Deus das sombras ataque_28
+  - first:
+      213: -7798869483056530518
+    second: Deus das sombras ataque_29
+  - first:
+      213: -4516168287923065938
+    second: Deus das sombras ataque_30
+  - first:
+      213: 1609953447966470975
+    second: Deus das sombras ataque_31
+  - first:
+      213: 1965925300422554033
+    second: Deus das sombras ataque_32
+  - first:
+      213: -4956492793299867777
+    second: Deus das sombras ataque_33
+  - first:
+      213: -5197016707689445769
+    second: Deus das sombras ataque_34
+  - first:
+      213: 1879452847366367954
+    second: Deus das sombras ataque_35
+  - first:
+      213: 3295809220207234528
+    second: Deus das sombras ataque_36
+  - first:
+      213: 7883841613294675587
+    second: Deus das sombras ataque_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deus das sombras ataque_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 65
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcf8f4ec523a8550800000000000000
+      internalID: 6163794414569848053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 65
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e55f45ac4ebdf320800000000000000
+      internalID: 2593438196835505635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 67
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86e3d25cf47a9450800000000000000
+      internalID: 6096313672669587085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 58
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99909d7f6c7d159f0800000000000000
+      internalID: -481366435590239847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 61
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a73a0bf681d46ba0800000000000000
+      internalID: -6096517617885235287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_5
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0
+        width: 63
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1492d6d3ebc5c110800000000000000
+      internalID: 1280653848478913567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_6
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 0
+        width: 62
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594fe52de4c7b4700800000000000000
+      internalID: 525650459497526421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_7
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 0
+        width: 62
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0b9048e80e68220800000000000000
+      internalID: 2487922746873983179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_8
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 61
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24c467d7e0f6aeb0800000000000000
+      internalID: -4708811481827458006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_9
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 0
+        width: 67
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db877a7b9daaebae0800000000000000
+      internalID: -1531598971193558851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_10
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 0
+        width: 64
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b36dfc567aace70800000000000000
+      internalID: 9136298849794931548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_11
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 0
+        width: 63
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd0b522d8367ff20800000000000000
+      internalID: 3456340696848076218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_12
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 0
+        width: 65
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1a7e48d59ae1880800000000000000
+      internalID: -8638280816123207173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_13
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 0
+        width: 64
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdaa27720bde0390800000000000000
+      internalID: -7850096296824492553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_14
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 0
+        width: 66
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b73b36ae2cf4b70800000000000000
+      internalID: 8885534901776120728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_15
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 0
+        width: 66
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc080f59ecb9869c0800000000000000
+      internalID: -3933722962926993204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_16
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 0
+        width: 63
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac66607c2b6dc910800000000000000
+      internalID: 1859260059782376612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_17
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 0
+        width: 65
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b7cb10190a16a40800000000000000
+      internalID: 5359741576207432476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras ataque_18
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 0
+        width: 63
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47b156115d3f7980800000000000000
+      internalID: -8539038949995071669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7797528204a949a48a142c039d3368dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Deus das sombras ataque_0: 6163794414569848053
+      Deus das sombras ataque_1: 2593438196835505635
+      Deus das sombras ataque_10: 9136298849794931548
+      Deus das sombras ataque_11: 3456340696848076218
+      Deus das sombras ataque_12: -8638280816123207173
+      Deus das sombras ataque_13: -7850096296824492553
+      Deus das sombras ataque_14: 8885534901776120728
+      Deus das sombras ataque_15: -3933722962926993204
+      Deus das sombras ataque_16: 1859260059782376612
+      Deus das sombras ataque_17: 5359741576207432476
+      Deus das sombras ataque_18: -8539038949995071669
+      Deus das sombras ataque_19: 2469063769785599193
+      Deus das sombras ataque_2: 6096313672669587085
+      Deus das sombras ataque_20: 6352713522622456479
+      Deus das sombras ataque_21: 2658940443712031231
+      Deus das sombras ataque_22: -3779008007562346226
+      Deus das sombras ataque_23: 7082908046558963276
+      Deus das sombras ataque_24: 6635499520633108795
+      Deus das sombras ataque_25: -4639236910745097824
+      Deus das sombras ataque_26: -1131996867671122711
+      Deus das sombras ataque_27: -8094640945114655434
+      Deus das sombras ataque_28: -2790521843985449270
+      Deus das sombras ataque_29: -7798869483056530518
+      Deus das sombras ataque_3: -481366435590239847
+      Deus das sombras ataque_30: -4516168287923065938
+      Deus das sombras ataque_31: 1609953447966470975
+      Deus das sombras ataque_32: 1965925300422554033
+      Deus das sombras ataque_33: -4956492793299867777
+      Deus das sombras ataque_34: -5197016707689445769
+      Deus das sombras ataque_35: 1879452847366367954
+      Deus das sombras ataque_36: 3295809220207234528
+      Deus das sombras ataque_4: -6096517617885235287
+      Deus das sombras ataque_5: 1280653848478913567
+      Deus das sombras ataque_6: 525650459497526421
+      Deus das sombras ataque_7: 2487922746873983179
+      Deus das sombras ataque_8: -4708811481827458006
+      Deus das sombras ataque_9: -1531598971193558851
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

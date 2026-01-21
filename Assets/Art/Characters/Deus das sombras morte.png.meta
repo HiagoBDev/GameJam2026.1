@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: ec61dc71a16bde44598fc0118ae52665
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3208226842067336071
+    second: Deus das sombras morte_0
+  - first:
+      213: 6897067068205584540
+    second: Deus das sombras morte_1
+  - first:
+      213: -7674621048715819120
+    second: Deus das sombras morte_2
+  - first:
+      213: -3817757781841372928
+    second: Deus das sombras morte_3
+  - first:
+      213: 2934302475258078437
+    second: Deus das sombras morte_4
+  - first:
+      213: 7792651623535120652
+    second: Deus das sombras morte_5
+  - first:
+      213: -1613607369612070993
+    second: Deus das sombras morte_6
+  - first:
+      213: 4994218075999228986
+    second: Deus das sombras morte_7
+  - first:
+      213: 9055106694455066717
+    second: Deus das sombras morte_8
+  - first:
+      213: 2792871372023878220
+    second: Deus das sombras morte_9
+  - first:
+      213: 1300995986240345
+    second: Deus das sombras morte_10
+  - first:
+      213: -6017671981996130095
+    second: Deus das sombras morte_11
+  - first:
+      213: 6409726954756588143
+    second: Deus das sombras morte_12
+  - first:
+      213: 3706166206705955537
+    second: Deus das sombras morte_13
+  - first:
+      213: 1245188381888301299
+    second: Deus das sombras morte_14
+  - first:
+      213: -839165557063369748
+    second: Deus das sombras morte_15
+  - first:
+      213: 994988306360094602
+    second: Deus das sombras morte_16
+  - first:
+      213: 3451384158914694156
+    second: Deus das sombras morte_17
+  - first:
+      213: -4914315927358146402
+    second: Deus das sombras morte_18
+  - first:
+      213: -3040219788677639638
+    second: Deus das sombras morte_19
+  - first:
+      213: 6008930339462789074
+    second: Deus das sombras morte_20
+  - first:
+      213: -8696084132961147081
+    second: Deus das sombras morte_21
+  - first:
+      213: -4607631986343230108
+    second: Deus das sombras morte_22
+  - first:
+      213: 5923861392352578270
+    second: Deus das sombras morte_23
+  - first:
+      213: 2551386674641290245
+    second: Deus das sombras morte_24
+  - first:
+      213: -2657390920520918946
+    second: Deus das sombras morte_25
+  - first:
+      213: -824653970324899757
+    second: Deus das sombras morte_26
+  - first:
+      213: 821993033287364904
+    second: Deus das sombras morte_27
+  - first:
+      213: 786231694851390233
+    second: Deus das sombras morte_28
+  - first:
+      213: 6770285127359949897
+    second: Deus das sombras morte_29
+  - first:
+      213: -4900903863279844102
+    second: Deus das sombras morte_30
+  - first:
+      213: 114890142996979710
+    second: Deus das sombras morte_31
+  - first:
+      213: -1347106387681699605
+    second: Deus das sombras morte_32
+  - first:
+      213: -8434383068626053416
+    second: Deus das sombras morte_33
+  - first:
+      213: 3332150076969439391
+    second: Deus das sombras morte_34
+  - first:
+      213: -5142253324218313135
+    second: Deus das sombras morte_35
+  - first:
+      213: 9041310050199156562
+    second: Deus das sombras morte_36
+  - first:
+      213: 513802532842162439
+    second: Deus das sombras morte_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deus das sombras morte_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 66
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97404bf5fa61a73d0800000000000000
+      internalID: -3208226842067336071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 57
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c905070d4fd47bf50800000000000000
+      internalID: 6897067068205584540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 59
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097ce8d61d44e7590800000000000000
+      internalID: -7674621048715819120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 58
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0099cd65689940bc0800000000000000
+      internalID: -3817757781841372928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 59
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4ae4dfd8cb8b820800000000000000
+      internalID: 2934302475258078437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_5
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 0
+        width: 58
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c019e274d5f052c60800000000000000
+      internalID: 7792651623535120652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_6
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 56
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafe15785a05b99e0800000000000000
+      internalID: -1613607369612070993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 0
+        width: 57
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34d4ce21e60f4540800000000000000
+      internalID: 4994218075999228986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_8
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 0
+        width: 56
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50814600933aad70800000000000000
+      internalID: 9055106694455066717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_9
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 0
+        width: 56
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4257d037b542c620800000000000000
+      internalID: 2792871372023878220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_10
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 0
+        width: 57
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9533d9bbf3f940000800000000000000
+      internalID: 1300995986240345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_11
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 0
+        width: 56
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0cc42273fec7ca0800000000000000
+      internalID: -6017671981996130095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_12
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 0
+        width: 57
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62438584bce3f850800000000000000
+      internalID: 6409726954756588143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_13
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 0
+        width: 57
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2f3456782fe6330800000000000000
+      internalID: 3706166206705955537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_14
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 0
+        width: 59
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f845ec6c3cc74110800000000000000
+      internalID: 1245188381888301299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_15
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 0
+        width: 59
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebbe773f5faa54f0800000000000000
+      internalID: -839165557063369748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_16
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 0
+        width: 56
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fc24cc798eecd00800000000000000
+      internalID: 994988306360094602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_17
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 0
+        width: 57
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c45873b97c5ef20800000000000000
+      internalID: 3451384158914694156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deus das sombras morte_18
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 0
+        width: 59
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98f5c383b7dccbb0800000000000000
+      internalID: -4914315927358146402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4239368fb39728541a90c335f5f296e8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Deus das sombras morte_0: -3208226842067336071
+      Deus das sombras morte_1: 6897067068205584540
+      Deus das sombras morte_10: 1300995986240345
+      Deus das sombras morte_11: -6017671981996130095
+      Deus das sombras morte_12: 6409726954756588143
+      Deus das sombras morte_13: 3706166206705955537
+      Deus das sombras morte_14: 1245188381888301299
+      Deus das sombras morte_15: -839165557063369748
+      Deus das sombras morte_16: 994988306360094602
+      Deus das sombras morte_17: 3451384158914694156
+      Deus das sombras morte_18: -4914315927358146402
+      Deus das sombras morte_19: -3040219788677639638
+      Deus das sombras morte_2: -7674621048715819120
+      Deus das sombras morte_20: 6008930339462789074
+      Deus das sombras morte_21: -8696084132961147081
+      Deus das sombras morte_22: -4607631986343230108
+      Deus das sombras morte_23: 5923861392352578270
+      Deus das sombras morte_24: 2551386674641290245
+      Deus das sombras morte_25: -2657390920520918946
+      Deus das sombras morte_26: -824653970324899757
+      Deus das sombras morte_27: 821993033287364904
+      Deus das sombras morte_28: 786231694851390233
+      Deus das sombras morte_29: 6770285127359949897
+      Deus das sombras morte_3: -3817757781841372928
+      Deus das sombras morte_30: -4900903863279844102
+      Deus das sombras morte_31: 114890142996979710
+      Deus das sombras morte_32: -1347106387681699605
+      Deus das sombras morte_33: -8434383068626053416
+      Deus das sombras morte_34: 3332150076969439391
+      Deus das sombras morte_35: -5142253324218313135
+      Deus das sombras morte_36: 9041310050199156562
+      Deus das sombras morte_37: 513802532842162439
+      Deus das sombras morte_4: 2934302475258078437
+      Deus das sombras morte_5: 7792651623535120652
+      Deus das sombras morte_6: -1613607369612070993
+      Deus das sombras morte_7: 4994218075999228986
+      Deus das sombras morte_8: 9055106694455066717
+      Deus das sombras morte_9: 2792871372023878220
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

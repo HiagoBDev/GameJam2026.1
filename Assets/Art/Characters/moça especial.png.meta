@@ -1,0 +1,590 @@
+fileFormatVersion: 2
+guid: 6fe250625300ab94c981362b51e16225
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8453338847818514138
+    second: "mo\xE7a especial_0"
+  - first:
+      213: -5961374507264046083
+    second: "mo\xE7a especial_1"
+  - first:
+      213: 5050532301196237460
+    second: "mo\xE7a especial_2"
+  - first:
+      213: -8815323661757503008
+    second: "mo\xE7a especial_3"
+  - first:
+      213: -3176943724225168842
+    second: "mo\xE7a especial_4"
+  - first:
+      213: 5403442551732764370
+    second: "mo\xE7a especial_5"
+  - first:
+      213: -1496302346584699397
+    second: "mo\xE7a especial_6"
+  - first:
+      213: 2105716810224345387
+    second: "mo\xE7a especial_7"
+  - first:
+      213: 6897519667436481438
+    second: "mo\xE7a especial_8"
+  - first:
+      213: 237991336082564067
+    second: "mo\xE7a especial_9"
+  - first:
+      213: 6241183610523682579
+    second: "mo\xE7a especial_10"
+  - first:
+      213: -1791869963129361092
+    second: "mo\xE7a especial_11"
+  - first:
+      213: -3116289409916220663
+    second: "mo\xE7a especial_12"
+  - first:
+      213: -3538126065224552341
+    second: "mo\xE7a especial_13"
+  - first:
+      213: -6761060061797849658
+    second: "mo\xE7a especial_14"
+  - first:
+      213: 6064673140730918252
+    second: "mo\xE7a especial_15"
+  - first:
+      213: -2484218553898801813
+    second: "mo\xE7a especial_16"
+  - first:
+      213: 7636585958725454832
+    second: "mo\xE7a especial_17"
+  - first:
+      213: 3346102045041383816
+    second: "mo\xE7a especial_18"
+  - first:
+      213: -6641893059296851183
+    second: "mo\xE7a especial_19"
+  - first:
+      213: -7293802180322287718
+    second: "mo\xE7a especial_20"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "mo\xE7a especial_0"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 45
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62184c90b15bfaa80800000000000000
+      internalID: -8453338847818514138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a especial_1"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 44
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb05796871f44da0800000000000000
+      internalID: -5961374507264046083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a especial_2"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 38
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a107b7e58171640800000000000000
+      internalID: 5050532301196237460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a especial_3"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 37
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e929d0d5dda9a580800000000000000
+      internalID: -8815323661757503008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a especial_4"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1
+        width: 34
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63af626d38a39e3d0800000000000000
+      internalID: -3176943724225168842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a especial_5"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1
+        width: 34
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2def2444f52ecfa40800000000000000
+      internalID: 5403442551732764370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a especial_6"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 34
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd4c3b81f01c3be0800000000000000
+      internalID: -1496302346584699397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a especial_7"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1
+        width: 34
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21adf64842093d10800000000000000
+      internalID: 2105716810224345387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a especial_8"
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1
+        width: 40
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b62d8c799e8bf50800000000000000
+      internalID: 6897519667436481438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a especial_10"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1
+        width: 40
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31701433d632d9650800000000000000
+      internalID: 6241183610523682579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a especial_12"
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1
+        width: 40
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bc1a0ea47b0c4d0800000000000000
+      internalID: -3116289409916220663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a especial_14"
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1
+        width: 40
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5657702b3eb22a0800000000000000
+      internalID: -6761060061797849658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a especial_15"
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1
+        width: 41
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c657e18e61c0a2450800000000000000
+      internalID: 6064673140730918252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a especial_16"
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1
+        width: 34
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b656d6e1368468dd0800000000000000
+      internalID: -2484218553898801813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a especial_17"
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1
+        width: 34
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb0196187a9af960800000000000000
+      internalID: 7636585958725454832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a especial_18"
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1
+        width: 34
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88956e0e41ebf6e20800000000000000
+      internalID: 3346102045041383816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a especial_19"
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1
+        width: 37
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b8a7ce37143d3a0800000000000000
+      internalID: -6641893059296851183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2b127724e88c23042af9728c11d60bcf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "mo\xE7a especial_0": -8453338847818514138
+      "mo\xE7a especial_1": -5961374507264046083
+      "mo\xE7a especial_10": 6241183610523682579
+      "mo\xE7a especial_11": -1791869963129361092
+      "mo\xE7a especial_12": -3116289409916220663
+      "mo\xE7a especial_13": -3538126065224552341
+      "mo\xE7a especial_14": -6761060061797849658
+      "mo\xE7a especial_15": 6064673140730918252
+      "mo\xE7a especial_16": -2484218553898801813
+      "mo\xE7a especial_17": 7636585958725454832
+      "mo\xE7a especial_18": 3346102045041383816
+      "mo\xE7a especial_19": -6641893059296851183
+      "mo\xE7a especial_2": 5050532301196237460
+      "mo\xE7a especial_20": -7293802180322287718
+      "mo\xE7a especial_3": -8815323661757503008
+      "mo\xE7a especial_4": -3176943724225168842
+      "mo\xE7a especial_5": 5403442551732764370
+      "mo\xE7a especial_6": -1496302346584699397
+      "mo\xE7a especial_7": 2105716810224345387
+      "mo\xE7a especial_8": 6897519667436481438
+      "mo\xE7a especial_9": 237991336082564067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

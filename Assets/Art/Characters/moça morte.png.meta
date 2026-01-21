@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: ebf862755f9c54b4ab8925e026ae45a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5718243657006543168
+    second: "mo\xE7a morte_0"
+  - first:
+      213: -4119570325111046889
+    second: "mo\xE7a morte_1"
+  - first:
+      213: -5789580977386303945
+    second: "mo\xE7a morte_2"
+  - first:
+      213: -7371170109570688686
+    second: "mo\xE7a morte_3"
+  - first:
+      213: -3268208417012682958
+    second: "mo\xE7a morte_4"
+  - first:
+      213: 1429854481629197498
+    second: "mo\xE7a morte_5"
+  - first:
+      213: -8701885066653503519
+    second: "mo\xE7a morte_6"
+  - first:
+      213: 940327695456142406
+    second: "mo\xE7a morte_7"
+  - first:
+      213: -4835606213914783655
+    second: "mo\xE7a morte_8"
+  - first:
+      213: 5959298038863645388
+    second: "mo\xE7a morte_9"
+  - first:
+      213: 6579833042707833781
+    second: "mo\xE7a morte_10"
+  - first:
+      213: -3912706294364527193
+    second: "mo\xE7a morte_11"
+  - first:
+      213: 5028663112817782753
+    second: "mo\xE7a morte_12"
+  - first:
+      213: 8791225909093157273
+    second: "mo\xE7a morte_13"
+  - first:
+      213: -7370973791505639339
+    second: "mo\xE7a morte_14"
+  - first:
+      213: -8392722062026026531
+    second: "mo\xE7a morte_15"
+  - first:
+      213: 2191750627366307912
+    second: "mo\xE7a morte_16"
+  - first:
+      213: -2586094599275935690
+    second: "mo\xE7a morte_17"
+  - first:
+      213: 4072742080000141159
+    second: "mo\xE7a morte_18"
+  - first:
+      213: 8526971587839398233
+    second: "mo\xE7a morte_19"
+  - first:
+      213: -5541687936245829257
+    second: "mo\xE7a morte_20"
+  - first:
+      213: 6631115098650627942
+    second: "mo\xE7a morte_21"
+  - first:
+      213: -5343592539453806849
+    second: "mo\xE7a morte_22"
+  - first:
+      213: -3807340756334010029
+    second: "mo\xE7a morte_23"
+  - first:
+      213: -2362302777984897401
+    second: "mo\xE7a morte_24"
+  - first:
+      213: -4213564601065989508
+    second: "mo\xE7a morte_25"
+  - first:
+      213: -3134768973968964747
+    second: "mo\xE7a morte_26"
+  - first:
+      213: -4081430709603452653
+    second: "mo\xE7a morte_27"
+  - first:
+      213: -4748574477703208695
+    second: "mo\xE7a morte_28"
+  - first:
+      213: -6919377311552071952
+    second: "mo\xE7a morte_29"
+  - first:
+      213: 1295968891958826031
+    second: "mo\xE7a morte_30"
+  - first:
+      213: -3241355542981862707
+    second: "mo\xE7a morte_31"
+  - first:
+      213: 690976988857556190
+    second: "mo\xE7a morte_32"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "mo\xE7a morte_0"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1
+        width: 47
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce8ef4c0b7b4a0b0800000000000000
+      internalID: -5718243657006543168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_1"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 41
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71df380ad9854d6c0800000000000000
+      internalID: -4119570325111046889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_2"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 37
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ec78c86c647afa0800000000000000
+      internalID: -5789580977386303945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_4"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 32
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f640ca2cdf4a2d0800000000000000
+      internalID: -3268208417012682958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_5"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1
+        width: 32
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4320a431dd7d310800000000000000
+      internalID: 1429854481629197498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_6"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1
+        width: 31
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef67dde2a1bc3780800000000000000
+      internalID: -8701885066653503519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_7"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 33
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64400249e07bc0d00800000000000000
+      internalID: 940327695456142406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_8"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1
+        width: 34
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95010f1c4c974ecb0800000000000000
+      internalID: -4835606213914783655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_9"
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1
+        width: 33
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca462d1efda3b250800000000000000
+      internalID: 5959298038863645388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_10"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1
+        width: 33
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b36af77a43405b50800000000000000
+      internalID: 6579833042707833781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_11"
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1
+        width: 33
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5a7fd0b5643b9c0800000000000000
+      internalID: -3912706294364527193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_12"
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1
+        width: 33
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef2d96457669c540800000000000000
+      internalID: 5028663112817782753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_13"
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1
+        width: 33
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99945bbe265b00a70800000000000000
+      internalID: 8791225909093157273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_14"
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1
+        width: 33
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5589794c36a05b990800000000000000
+      internalID: -7370973791505639339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_15"
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1
+        width: 34
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1da5a40cf078b80800000000000000
+      internalID: -8392722062026026531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_16"
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1
+        width: 33
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848886c4599aa6e10800000000000000
+      internalID: 2191750627366307912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_17"
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1
+        width: 34
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6380a96e9a85c1cd0800000000000000
+      internalID: -2586094599275935690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mo\xE7a morte_18"
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1
+        width: 33
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767a13ce759458830800000000000000
+      internalID: 4072742080000141159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 424a1324c5469f14f90961599ae7f155
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "mo\xE7a morte_0": -5718243657006543168
+      "mo\xE7a morte_1": -4119570325111046889
+      "mo\xE7a morte_10": 6579833042707833781
+      "mo\xE7a morte_11": -3912706294364527193
+      "mo\xE7a morte_12": 5028663112817782753
+      "mo\xE7a morte_13": 8791225909093157273
+      "mo\xE7a morte_14": -7370973791505639339
+      "mo\xE7a morte_15": -8392722062026026531
+      "mo\xE7a morte_16": 2191750627366307912
+      "mo\xE7a morte_17": -2586094599275935690
+      "mo\xE7a morte_18": 4072742080000141159
+      "mo\xE7a morte_19": 8526971587839398233
+      "mo\xE7a morte_2": -5789580977386303945
+      "mo\xE7a morte_20": -5541687936245829257
+      "mo\xE7a morte_21": 6631115098650627942
+      "mo\xE7a morte_22": -5343592539453806849
+      "mo\xE7a morte_23": -3807340756334010029
+      "mo\xE7a morte_24": -2362302777984897401
+      "mo\xE7a morte_25": -4213564601065989508
+      "mo\xE7a morte_26": -3134768973968964747
+      "mo\xE7a morte_27": -4081430709603452653
+      "mo\xE7a morte_28": -4748574477703208695
+      "mo\xE7a morte_29": -6919377311552071952
+      "mo\xE7a morte_3": -7371170109570688686
+      "mo\xE7a morte_30": 1295968891958826031
+      "mo\xE7a morte_31": -3241355542981862707
+      "mo\xE7a morte_32": 690976988857556190
+      "mo\xE7a morte_4": -3268208417012682958
+      "mo\xE7a morte_5": 1429854481629197498
+      "mo\xE7a morte_6": -8701885066653503519
+      "mo\xE7a morte_7": 940327695456142406
+      "mo\xE7a morte_8": -4835606213914783655
+      "mo\xE7a morte_9": 5959298038863645388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

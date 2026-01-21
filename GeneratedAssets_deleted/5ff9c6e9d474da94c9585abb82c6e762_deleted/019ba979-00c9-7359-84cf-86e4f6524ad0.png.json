@@ -1,0 +1,20 @@
+{
+    "asset": "5ff9c6e9d474da94c9585abb82c6e762",
+    "fileName": "019ba979-00c9-7359-84cf-86e4f6524ad0.png",
+    "prompt": "Create a character sprite for the player",
+    "negativePrompt": "",
+    "model": "5b5b2af1-6ea4-4266-b087-cc9f3bf4f450",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "d923eaabfa8812a7c1889ba36cd9705a",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
